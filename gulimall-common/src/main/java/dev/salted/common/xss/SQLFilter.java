@@ -8,7 +8,7 @@
 
 package dev.salted.common.xss;
 
-import io.renren.common.exception.RRException;
+import dev.salted.common.exception.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**
